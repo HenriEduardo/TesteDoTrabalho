@@ -1,4 +1,17 @@
 eu sou legal
+<<<<<<< HEAD
 	priemrio parágrafo 
 	segundo parágrafo 
 28/03/2020 16:13
+=======
+
+
+
+
+
+
+
+
+
+alteração pietro 
+>>>>>>> Pietro
